@@ -29,6 +29,8 @@ This application is written in .Net, please use Visual Studio 2017 or above to b
 
 7. Specify the destination folder for storing your cropped images.
 
+8. Sample console output of a successful execution.
+
 ![123123123](https://user-images.githubusercontent.com/17831550/66982179-35f77700-f0e8-11e9-9dc3-3d31bd06f01f.PNG)
 
 
