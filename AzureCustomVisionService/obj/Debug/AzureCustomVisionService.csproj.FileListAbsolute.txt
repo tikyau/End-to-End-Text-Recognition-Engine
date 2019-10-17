@@ -1,0 +1,20 @@
+C:\Projects\AzureCustomVisionService\AzureCustomVisionService\obj\Debug\AzureCustomVisionService.csprojAssemblyReference.cache
+C:\Projects\AzureCustomVisionService\AzureCustomVisionService\obj\Debug\AzureCustomVisionService.csproj.CoreCompileInputs.cache
+C:\Projects\AzureCustomVisionService\AzureCustomVisionService\bin\Debug\AzureCustomVisionService.exe.config
+C:\Projects\AzureCustomVisionService\AzureCustomVisionService\bin\Debug\AzureCustomVisionService.exe
+C:\Projects\AzureCustomVisionService\AzureCustomVisionService\bin\Debug\AzureCustomVisionService.pdb
+C:\Projects\AzureCustomVisionService\AzureCustomVisionService\obj\Debug\AzureCustomVisionService.exe
+C:\Projects\AzureCustomVisionService\AzureCustomVisionService\obj\Debug\AzureCustomVisionService.pdb
+C:\Projects\AzureCustomVisionService\AzureCustomVisionService\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\AzureCustomVisionService\AzureCustomVisionService\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\AzureCustomVisionService\AzureCustomVisionService\obj\Debug\AzureCustomVisionService.csproj.CopyComplete
+C:\Users\tiyau\Desktop\Jabil Malaysia\AzureCustomVisionService\AzureCustomVisionService\bin\Debug\AzureCustomVisionService.exe.config
+C:\Users\tiyau\Desktop\Jabil Malaysia\AzureCustomVisionService\AzureCustomVisionService\bin\Debug\AzureCustomVisionService.exe
+C:\Users\tiyau\Desktop\Jabil Malaysia\AzureCustomVisionService\AzureCustomVisionService\bin\Debug\AzureCustomVisionService.pdb
+C:\Users\tiyau\Desktop\Jabil Malaysia\AzureCustomVisionService\AzureCustomVisionService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tiyau\Desktop\Jabil Malaysia\AzureCustomVisionService\AzureCustomVisionService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tiyau\Desktop\Jabil Malaysia\AzureCustomVisionService\AzureCustomVisionService\obj\Debug\AzureCustomVisionService.csprojAssemblyReference.cache
+C:\Users\tiyau\Desktop\Jabil Malaysia\AzureCustomVisionService\AzureCustomVisionService\obj\Debug\AzureCustomVisionService.csproj.CoreCompileInputs.cache
+C:\Users\tiyau\Desktop\Jabil Malaysia\AzureCustomVisionService\AzureCustomVisionService\obj\Debug\AzureCustomVisionService.csproj.CopyComplete
+C:\Users\tiyau\Desktop\Jabil Malaysia\AzureCustomVisionService\AzureCustomVisionService\obj\Debug\AzureCustomVisionService.exe
+C:\Users\tiyau\Desktop\Jabil Malaysia\AzureCustomVisionService\AzureCustomVisionService\obj\Debug\AzureCustomVisionService.pdb
